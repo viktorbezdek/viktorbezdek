@@ -1,0 +1,9 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Default metrics
+
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.base.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, activity, community, repositories, metadata
