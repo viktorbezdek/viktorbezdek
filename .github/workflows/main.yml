@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: "@classic"
           filename: github-metrics.svg
-          base: ""
+          base: header, activity, community, repositories, metadata
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_languages: yes
