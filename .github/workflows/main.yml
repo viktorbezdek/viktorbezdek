@@ -16,4 +16,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: "@classic"
+          filename: metrics.plugin.achievements.compact.svg
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 10
+          plugin_languages: yes
+          plugin_languages_categories: data, prose
+          plugin_languages_recent_categories: data, prose
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
           setup_community_templates: lowlighter/metrics@master:classic
