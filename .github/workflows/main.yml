@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: "@classic"
-          filename: metrics.plugin.achievements.compact.svg
+          filename: github-metrics.svg
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 10
