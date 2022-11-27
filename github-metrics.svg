@@ -37,8 +37,8 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            838 Commits
+                            866 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tenhobi/the-devs-guide</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of useful tools, guides, hacks, know-hows and more.</div>
@@ -343,7 +343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Correia-jpv/fucking-the-book-of-secret-knowledge</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴</div>
@@ -390,7 +390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcgov/digital-toolkit</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The BCGov Digital Toolkit is the reference repository for digital best practices across our teams</div>
@@ -443,7 +443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xapn/test-as-you-think</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TestAsYouThink: executable guidelines for tests as first-class citizens</div>
@@ -496,7 +496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>indigo-dc/sqa-baseline</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of Common Software Quality Assurance Baseline Criteria for Research Projects</div>
@@ -549,7 +549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sourcelevel/guidelines</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -599,7 +599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dealerdirect/guides</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dealerdirect guides for getting things done, be a programming role-model, coding in style and being the better colleague.</div>
@@ -652,7 +652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arbisoft/architecture-guidelines</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Project Architecture Guidelines Index</div>
@@ -693,7 +693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwarvesf/handbook</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dwarves Foundation Employee Handbook</div>
@@ -734,7 +734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidpelayo/awesome-parenting</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parenting information &amp; advice for expectant fathers. The first worldwide collaborative fatherhood guide</div>
@@ -830,7 +830,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.018480492813126 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.10335386721425 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -929,7 +929,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.15m out of 103m users</span>
+                                    <span class="gh">ranked 1.16m out of 103m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">31</div>
                                     </div>
@@ -1208,7 +1208,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2022, 00:10:20  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 27 Nov 2022, 00:12:11  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
